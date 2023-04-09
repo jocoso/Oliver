@@ -1,1 +1,2 @@
-# Oliver \n\n## A version source control for art
+# Oliver 
+## A version source control for art
